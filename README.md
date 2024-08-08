@@ -1,7 +1,3 @@
-# face-recognition-system-using-machine-learning-With-GUI
-Here's an introduction for your face recognition system project that you can use on GitHub:
-
----
 
 # Face Recognition System Using Machine Learning with GUI
 
